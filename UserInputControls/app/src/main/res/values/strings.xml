@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserInputControls</string>
+    <string-array name="branches">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>EEE</item>
+    </string-array>
+</resources>
